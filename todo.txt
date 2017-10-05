@@ -1,9 +1,1 @@
-﻿server side
-- add prediction title to the db
-- create translation table for orediction title and choices title
-- add active column to prediction table
-- dates forpredictions to be returned as double, not timestamp
-
-clent sede
-
-- check every 30 min and if no session refresh
+﻿new test
